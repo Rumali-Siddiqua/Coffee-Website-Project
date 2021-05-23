@@ -1,2 +1,2 @@
-# Mr.Coffee Website Project2
+# Mr.Coffee Website Project-2
 This project included a contact form to help handle customer inquiries. Set up a pop-up to notify the user that their message has been received, which has made the website more dynamic. The pop-up has been created using HTML and CSS, and JavaScript has been used to "display" and "close" the pop-up. The website is responsive, with a suitable presentation on mobile, tablet, and desktop, as well as applied SEO best practices.
